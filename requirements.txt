@@ -1,8 +1,8 @@
-pillow
-captcha
-pyrogram
 asyncio
+captcha
 dnspython
+EmojiCaptcha
+pillow
 pymongo
-EmojiCaptcha==0.1.2
+pyrogram
 tgcrypto
